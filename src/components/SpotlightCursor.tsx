@@ -1,10 +1,7 @@
 import { useEffect, useState } from "react";
 
-const MouseGlow = () => {
-  const [position, setPosition] = useState({
-    x: 0,
-    y: 0,
-  });
+const SpotlightCursor = () => {
+  const [position, setPosition] = useState({ x: 0, y: 0 });
 
   useEffect(() => {
     const updateMouse = (e: MouseEvent) => {
@@ -23,18 +20,16 @@ const MouseGlow = () => {
 
   return (
     <div
-      className="pointer-events-none fixed inset-0 z-30 transition duration-300"
+      className="pointer-events-none fixed inset-0 z-50"
       style={{
-        background: `
-          radial-gradient(
-            500px at ${position.x}px ${position.y}px,
-            rgba(0,245,212,0.15),
-            transparent 80%
-          )
-        `,
+        background: `radial-gradient(
+          400px at ${position.x}px ${position.y}px,
+          rgba(0,255,255,0.12),
+          transparent 80%
+        )`,
       }}
     />
   );
 };
 
-export default MouseGlow;
+export default SpotlightCursor;
