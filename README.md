@@ -341,7 +341,7 @@ npm run preview
 
 ### LinkedIn
 
-[www.linkedin.com/in/aditya-bhadauria-618574236](hhttps://www.linkedin.com/in/aditya-bhadauria-9b8082302/)
+https://www.linkedin.com/in/aditya-bhadauria-9b8082302/
 
 ### GitHub
 
