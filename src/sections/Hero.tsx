@@ -160,7 +160,7 @@ const Hero = () => {
 
           {/* Download Resume */}
           <a
-            href="/resume/aditya_resume.pdf"
+            href="/resume/Aditya_Singh_Bhadauria_Resume.pdf"
             download
             className="
             glass

@@ -134,3 +134,60 @@ html {
     #9b5cff
   );
 }
+/* ROBOT FLOAT ANIMATION */
+
+@keyframes robotFloat {
+  0% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(-20px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.robot-float {
+  animation: robotFloat 4s ease-in-out infinite;
+}
+
+/* GLOW PULSE */
+
+@keyframes glowPulse {
+  0% {
+    opacity: 0.4;
+  }
+
+  50% {
+    opacity: 0.9;
+  }
+
+  100% {
+    opacity: 0.4;
+  }
+}
+
+.glow-pulse {
+  animation: glowPulse 3s ease-in-out infinite;
+}
+
+/* FADE IN */
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-up {
+  animation: fadeInUp 1s ease forwards;
+}
