@@ -6,7 +6,7 @@ A modern AI-powered portfolio built with **React, TypeScript, Tailwind CSS, Fram
 
 ## 🌐 Live Demo
 
-🔗 Portfolio Website
+https://ai-portfolio-ten-tau.vercel.app/
 
 > Built to showcase projects, certifications, technical skills, internship experience, and AI engineering capabilities.
 
@@ -341,7 +341,7 @@ npm run preview
 
 ### LinkedIn
 
-[www.linkedin.com/in/aditya-bhadauria-618574236](http://www.linkedin.com/in/aditya-bhadauria-618574236)
+[www.linkedin.com/in/aditya-bhadauria-618574236](hhttps://www.linkedin.com/in/aditya-bhadauria-9b8082302/)
 
 ### GitHub
 
@@ -349,7 +349,7 @@ https://github.com/Adi77189
 
 ### Email
 
-[adityabhadauria77189@gmail.com](mailto:adityabhadauria77189@gmail.com)
+[adityabhadauria77189@gmail.com](mailto:adityabhadauria1904@gmail.com)
 
 ---
 
