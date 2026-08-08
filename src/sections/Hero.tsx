@@ -104,9 +104,7 @@ const Hero = () => {
           transition={{ delay: 0.6 }}
           className="max-w-3xl mx-auto mt-8 text-gray-400 text-lg md:text-xl leading-relaxed"
         >
-          AI/ML Engineer focused on building intelligent automation systems,
-          scalable AI infrastructure, multimodal AI applications,
-          and cloud-native machine learning workflows.
+          AI/ML Engineer focused on building Generative AI, AI-agent systems, enterprise copilots, and cloud-native ML applications.
         </motion.p>
 
         {/* Tech Stack Pills */}
@@ -120,6 +118,8 @@ const Hero = () => {
             "LangChain",
             "OpenAI",
             "Docker",
+            "Microsoft Fabric",
+            "Copilot Studio"
           ].map((tech) => (
             <div
               key={tech}
