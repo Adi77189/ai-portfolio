@@ -100,8 +100,8 @@ const Contact = () => {
 
               {/* RESUME BUTTON */}
               <a
-                href="/resume/aditya_resume.pdf"
-                download
+                href="/resume/Aditya_Singh_Bhadauria_Resume.pdf"
+                download="Aditya_Singh_Bhadauria_Resume.pdf"
                 className="
                   glass
                   px-8
